@@ -1,4 +1,5 @@
 # Finite_State_Machine
+Desarrollado originalmente en español.
 
 Este proyecto consiste en el diseño y construcción de una máquina de estados finitos.
 El mismo fue factorizado en 2 FSMs y tiene 16 estados diferentes, 5 entradas y salidas en total.
