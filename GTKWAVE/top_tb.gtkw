@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.77 (w)1999-2016 BSI
+[*] Fri Apr 17 18:15:37 2020
+[*]
+[dumpfile] "C:\Users\cabal\Documents\UVG\3er año\1\Electrónica Digital\Máquina de Estados Finitos\Paquete final\GTKWAVE\top_tb.vcd"
+[savefile] "C:\Users\cabal\Documents\UVG\3er año\1\Electrónica Digital\Máquina de Estados Finitos\Paquete final\GTKWAVE\top_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.257001 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[sst_width] 211
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@28
+top_tb.T0.E
+top_tb.T1.P
+top_tb.T2.M
+top_tb.T2.I
+top_tb.T1.L
+top_tb.T0.Q
+@24
+top_tb.T1.B[3:0]
+top_tb.T2.S[3:0]
+top_tb.T0.S[1:0]
+top_tb.T1.S[1:0]
+top_tb.T2.U[2:0]
+top_tb.T2.R[3:0]
+@28
+top_tb.T2.FC
+top_tb.T2.clk
+[pattern_trace] 1
+[pattern_trace] 0
